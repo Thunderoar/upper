@@ -1,22 +1,20 @@
 [
   {
-    "name": "Teset",
-    "url": "https://teset-min.onrender.com",
-    "icon": "https://icons.duckduckgo.com/ip3/teset-min.onrender.com.ico",
-    "slug": "teset",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
-    "time": 670,
-    "timeDay": 670,
-    "timeWeek": 670,
-    "timeMonth": 670,
-    "timeYear": 670,
-    "dailyMinutesDown": {
-      "2023-01-09": 0
-    }
+    "name": "tesetter",
+    "url": "https://tesetter.onrender.com",
+    "icon": "https://icons.duckduckgo.com/ip3/tesetter.onrender.com.ico",
+    "slug": "tesetter",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 934,
+    "timeDay": 934,
+    "timeWeek": 934,
+    "timeMonth": 934,
+    "timeYear": 934,
+    "dailyMinutesDown": {}
   }
 ]
