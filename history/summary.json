@@ -4,17 +4,19 @@
     "url": "https://teset-min.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/teset-min.onrender.com.ico",
     "slug": "teset",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 670,
+    "timeDay": 670,
+    "timeWeek": 670,
+    "timeMonth": 670,
+    "timeYear": 670,
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   }
 ]
