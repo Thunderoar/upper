@@ -4,17 +4,19 @@
     "url": "https://tesetter.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/tesetter.onrender.com.ico",
     "slug": "tesetter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 934,
-    "timeWeek": 934,
-    "timeMonth": 934,
-    "timeYear": 934,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   }
 ]
