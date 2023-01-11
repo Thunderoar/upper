@@ -1,7 +1,7 @@
 url: https://teset-min.farhansamil.repl.co
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2023-01-11T08:41:18.578Z
+status: down
+code: 429
+responseTime: 3270
+lastUpdated: 2023-01-11T18:22:59.070Z
 startTime: Mon Jan 09 2023 19:34:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
