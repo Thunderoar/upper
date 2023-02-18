@@ -4,14 +4,14 @@
     "url": "https://teset-min.farhansamil.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/teset-min.farhansamil.repl.co.ico",
     "slug": "tesetter",
-    "status": "up",
-    "uptime": "91.44%",
-    "uptimeDay": "26.64%",
-    "uptimeWeek": "51.18%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "91.44%",
+    "status": "down",
+    "uptime": "91.54%",
+    "uptimeDay": "27.25%",
+    "uptimeWeek": "51.75%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "91.54%",
     "time": 2692,
-    "timeDay": 992,
+    "timeDay": 1028,
     "timeWeek": 2533,
     "timeMonth": 2721,
     "timeYear": 2692,
@@ -21,7 +21,7 @@
       "2023-02-16": 780,
       "2023-02-15": 843,
       "2023-02-14": 630,
-      "2023-02-13": 906
+      "2023-02-13": 849
     }
   }
 ]
